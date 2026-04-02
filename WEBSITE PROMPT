@@ -1,0 +1,92 @@
+Create a complete static frontend website for a modern PREMIUM UNISEX salon.
+Requirements:
+* Fully responsive (mobile + desktop)
+* Use only HTML, CSS, and JavaScript (no frameworks)
+* Premium, elegant, gender-neutral design (black, white, beige, gold, grey tones)
+* Smooth animations and modern UI
+Sections to include:
+1. Home (Hero Section)
+* Salon name and logo
+* Tagline like “Style for Everyone”
+* CTA buttons: “Book Appointment” and “View Services”
+* Background image of a luxury salon interior
+1. About Us
+* Short intro about the salon
+* Emphasize hygiene, professional staff, and modern equipment
+1. Services (VERY DETAILED with icons/cards):
+Men’s Grooming:
+* Haircut (fade, undercut, classic, styling)
+* Beard trimming & shaping
+* Clean shave
+* Hair coloring & highlights
+* Hair spa & scalp treatment
+* Keratin treatment for men
+* Head massage
+* Dandruff treatment
+Women’s Beauty:
+* Haircut & styling (layer, step, bob, etc.)
+* Hair coloring (global, highlights, balayage, ombre)
+* Hair spa & smoothing
+* Keratin & rebonding
+* Facial (gold, fruit, anti-aging, acne treatment)
+* Cleanup & detan
+* Waxing (full body, arms, legs)
+* Threading (eyebrows, upper lip, forehead)
+* Manicure & pedicure
+* Bridal makeup
+* Party makeup
+* Saree draping & styling
+Unisex Services:
+* Spa treatments
+* Body massage
+* Hair botox treatment
+* Hair straightening
+* Hair smoothening
+* Scalp detox
+* Head & shoulder massage
+* Skin polishing
+* Bleach & tan removal
+Add a clean card layout for services with icons and hover effects.
+1. Pricing Section
+* Simple price cards for popular services
+1. Gallery (IMPORTANT – include salon images)
+* Use high-quality placeholder images of:
+   * Salon interior
+   * Hair styling
+   * Makeup
+   * Grooming
+* Use images from sources like Unsplash/Pexels
+* Grid layout with hover zoom effect
+1. Testimonials
+* Add 3–5 customer reviews (dummy content)
+1. Contact Section
+* WhatsApp button (use wa.me link with dummy number)
+* Email (mailto link)
+* Instagram link
+* Google Maps placeholder (optional)
+* Opening hours
+1. Footer
+* Social media icons
+* Quick links
+* Copyright
+Functional Requirements:
+* Sticky navbar with smooth scrolling
+* Floating WhatsApp button (bottom right)
+* Buttons should be interactive (hover effects)
+* All links should work properly
+Design Requirements:
+* Use Google Fonts (Poppins, Playfair Display)
+* Add shadows, spacing, rounded corners
+* Smooth scroll animations
+* Elegant and modern layout
+Output Requirements:
+* Provide complete project as a downloadable ZIP file
+* Include:
+   * index.html
+   * style.css
+   * script.js
+   * images folder with salon placeholder images
+* Ensure everything is properly linked and working
+Important:
+* Do NOT explain anything
+* Only generate the full project and provide a ZIP download link
